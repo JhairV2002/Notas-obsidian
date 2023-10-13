@@ -20,7 +20,9 @@ agregar la seccion deplou al archivo docker-compose.yml
 
 ![[Pasted image 20231009143839.png]]
 
-para ejecutar un servicio de forma global (uno en cada nodo) se hace
+para ejecutar un servicio de forma global (uno en cada nodo) se hace:
+
+**nota:** un servicio replicado no puede pasar a modo global
 ```yml
 deploy:
 	mode: global
@@ -35,6 +37,4 @@ services:
 
 bajar el stack 
 `sudo docker stack down NombreDelStack`
-
-
 La informacion va codificada en tls

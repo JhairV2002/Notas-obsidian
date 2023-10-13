@@ -8,51 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "087ccc4d91009070",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "86753e5030016b44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PHP_capacitacion/Sinfony.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7dea92d856c0f5e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker 2/Capacitacion 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb8f9de7bbf573e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker 2/Grabacion 5.md",
+                "file": "Factibilidad/Factibilidad.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker 2/Grabacion 5.md",
+                "file": "Factibilidad/Factibilidad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker 2/Grabacion 5.md",
+                "file": "Factibilidad/Factibilidad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker 2/Grabacion 5.md"
+                "file": "Factibilidad/Factibilidad.md"
               }
             }
           }
@@ -179,15 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fb8f9de7bbf573e4",
+  "active": "7dea92d856c0f5e7",
   "lastOpenFiles": [
+    "Modulo de soporte/Administracion - Soporte.md",
+    "Factibilidad/Factibilidad.md",
+    "Factibilidad",
+    "Procedimientos/Procedimientos.md",
+    "Modulo de soporte",
+    "Gitlab/Comandos y notas.md",
+    "Procedimientos",
+    "Pasted image 20231011125953.png",
+    "Calidad/Calidad.md",
+    "Untitled 1.md",
+    "Gitlab",
+    "Micro Servicios/Capacitacion 2.md",
+    "Calidad",
+    "Docker 2/Capacitacion 6.md",
+    "Micro Servicios",
+    "Docker 2/Capacitacion 1.md",
+    "Docker 2/Capacitacion 5.md",
     "Pasted image 20231009143839.png",
     "Docker 2/Capacitacion 4.md",
-    "Docker 2/Grabacion 5.md",
     "Pasted image 20231009002339.png",
     "Docker 2/Capacitacion 2.md",
     "Pasted image 20231008211057.png",
-    "Docker 2/Capacitacion 1.md",
     "Pasted image 20231008204654.png",
     "Pasted image 20231008204304.png",
     "Pasted image 20231008204121.png",
@@ -196,8 +178,6 @@
     "Pasted image 20231008204003.png",
     "PHP_capacitacion/Sinfony.md",
     "Docker 2",
-    "Pasted image 20231006175950.png",
-    "Pasted image 20231006175316.png",
     "Untitled.md",
     "PHP_capacitacion"
   ]
